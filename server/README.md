@@ -1,7 +1,9 @@
-# AI Chatbot
+# FastAPI Chatbot
 
 - A simple chatbot made with FastAPI in backend, and NEXTJS in frontend.
 - The AI model is DeepSeek V3 through OpenRouter
+
+
 
 
 ## LICENSE
