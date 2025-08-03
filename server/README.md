@@ -4,8 +4,6 @@
 - The AI model is DeepSeek V3 through OpenRouter
 
 
-
-
 ## LICENSE
 
 This project is licensed under the MIT License.
